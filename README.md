@@ -1,11 +1,12 @@
----------------------------------------------------------
-# Project proposal I (objective & dataset)
-----------------------------------------------------------
+
+Project proposal I (objective & dataset)
+------------------------------------------------------------
+
+
+
 
 ## I. Project Title:
-
-Neural Forecasting: Predicting Corporate Bankruptcy from Financial Indicators
-
+#### Improving Bankruptcy Predictions: Neural Techniques Leveraging Taiwanese Bankruptcy Data
 ## II. Project Introduction:
 
 ### Objective:
@@ -23,11 +24,10 @@ Bankruptcies can have ripple effects across economies, affecting job markets, st
 #### [ Taiwanese Bankruptcy Prediction. (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C5004D. ]
 The dataset, sourced from the UCI Machine Learning Repository, contains financial attributes of Taiwanese companies from 1999 to 2009, and it's structured to assist in predicting the possibility of bankruptcy based on these financial attributes.
 
+The dataset comprises 95 features (financial attributes) that represent different financial metrics, providing insights into various aspects of a company's financial health. Additionally, there is 1 label that indicates the bankruptcy status.
 
 ###  Features (Financial Attributes):
-
-The dataset comprises 95 features financial attributes, representing different financial metrics that provide insight into various facets of a company's financial health. 
-
+Here's what each feature means.
 #####	1	ROA(C) before interest and depreciation before interest: Represents the Return on Assets, prior to accounting for interest and depreciation. It provides an insight into the company's efficiency in using assets to generate earnings without certain deductions.
 #####	2	ROA(A) before interest and % after tax: Measures Return on Assets before interest deductions and after considering taxes. This ratio can indicate the effectiveness of asset usage in generating post-tax returns.
 #####	3	ROA(B) before interest and depreciation after tax: Reflects the Return on Assets, before interest but after deducting depreciation and tax. This shows profitability related to asset utilization, adjusted for depreciation.
@@ -123,8 +123,6 @@ The dataset comprises 95 features financial attributes, representing different f
 #####	93	Interest Coverage Ratio (Interest expense to EBIT): Measures the company's ability to cover interest expenses with its earnings before interest and taxes (EBIT). Indicates solvency and risk of default.
 #####	94	Net Income Flag: A binary indicator denoting the presence (value of '1') or absence (value of '0') of net income. It alerts stakeholders to the company's profitability status.
 #####	95	Equity to Liability: Contrasts shareholder's equity with total liabilities. Provides insights into the company's financial stability and reliance on external financing
-
-
 
 
 ### Label (Bankruptcy):
