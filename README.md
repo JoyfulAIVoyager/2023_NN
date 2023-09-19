@@ -1,9 +1,5 @@
 
-Project proposal I (objective & dataset)
-------------------------------------------------------------
-
-
-
+# Project proposal I (objective & dataset)
 
 ## I. Project Title:
 #### Improving Bankruptcy Predictions: Neural Techniques Leveraging Taiwanese Bankruptcy Data
