@@ -23,7 +23,7 @@ The dataset, sourced from the UCI Machine Learning Repository, contains financia
 
 ###  Features (Financial Attributes):
 
-The dataset comprises 95 features financial attributes, representing different financial metrics that provide insight into various facets of a company's financial health. Some notable attributes include:
+The dataset comprises 95 features financial attributes, representing different financial metrics that provide insight into various facets of a company's financial health. 
 
 ### Label (Bankruptcy):
 Bankruptcy Status (1: Went Bankrupt, 0: Did not go bankrupt)
