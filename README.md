@@ -1,4 +1,5 @@
-# 2023_NN
+# Project proposal I (objective & dataset)
+ 
 ## I. Project Title:
 
 Neural Forecasting: Predicting Corporate Bankruptcy from Financial Indicators
