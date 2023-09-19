@@ -29,11 +29,11 @@ The dataset comprises 95 features financial attributes, representing different f
 Bankruptcy Status (1: Went Bankrupt, 0: Did not go bankrupt)
 
 ### Data Splitting
-The data will be divided into three sets:
+The data is divided into three sets and uploaded:
 
-Training set (60%): Used to train our neural network model.
+Training set (60%): Used to train our neural network model. (train_dataset.csv)
 
-Validation set (20%): To tune the model parameters and prevent overfitting.
+Validation set (20%): To tune the model parameters and prevent overfitting. (valid_dataset.csv)
 
-Test set (20%): To evaluate the model's performance on unseen data.
+Test set (20%): To evaluate the model's performance on unseen data. (test_dataset.csv)
 
